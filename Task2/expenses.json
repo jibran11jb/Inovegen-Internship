@@ -1,0 +1,7 @@
+[
+    {"id": 1, "amount": 450.0, "category": "Food", "date": "2025-03-02", "description": "Groceries"},
+    {"id": 2, "amount": 120.5, "category": "Transport", "date": "2025-03-05", "description": "Bus pass"},
+    {"id": 3, "amount": 1500.0, "category": "Shopping", "date": "2025-03-12", "description": "Headphones"},
+    {"id": 4, "amount": 300.0, "category": "Food", "date": "2025-04-01", "description": "Dinner with friends"},
+    {"id": 5, "amount": 800.0, "category": "Bills", "date": "2025-04-03", "description": "Internet bill"}
+]
