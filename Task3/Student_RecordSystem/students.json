@@ -1,0 +1,10 @@
+[
+  {"id": "S001", "name": "Ayesha Khan", "course": "Computer Science", "marks": 92.5},
+  {"id": "S002", "name": "Bilal Ahmed", "course": "Computer Science", "marks": 78},
+  {"id": "S003", "name": "Fatima Noor", "course": "Data Science", "marks": 85.25},
+  {"id": "S004", "name": "Hamza Ali", "course": "Software Engineering", "marks": 64},
+  {"id": "S005", "name": "Sana Malik", "course": "Data Science", "marks": 71.5},
+  {"id": "S006", "name": "Usman Tariq", "course": "Cyber Security", "marks": 55},
+  {"id": "S007", "name": "Zainab Iqbal", "course": "Cyber Security", "marks": 97},
+  {"id": "S008", "name": "Omar Farooq", "course": "Software Engineering", "marks": 43.75}
+]
