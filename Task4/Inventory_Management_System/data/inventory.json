@@ -1,0 +1,8 @@
+[
+  {"product_id": "P001", "name": "Wireless Mouse", "category": "Electronics", "quantity": 45, "price": 15.99},
+  {"product_id": "P002", "name": "USB-C Cable", "category": "Electronics", "quantity": 8, "price": 6.5},
+  {"product_id": "P003", "name": "Notebook A5", "category": "Stationery", "quantity": 120, "price": 2.25},
+  {"product_id": "P004", "name": "Ballpoint Pens (Box)", "category": "Stationery", "quantity": 5, "price": 4.0},
+  {"product_id": "P005", "name": "Desk Lamp", "category": "Furniture", "quantity": 18, "price": 24.99},
+  {"product_id": "P006", "name": "Office Chair", "category": "Furniture", "quantity": 3, "price": 89.0}
+]
